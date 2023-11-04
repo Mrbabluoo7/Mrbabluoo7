@@ -12,6 +12,8 @@
 ## GitHub Stats  
 
 
+![github stats](https://rawcdn.githack.com/Afan76781/git_Files/a461b8118499f840f51fb00c0f8872e6f9912cc7/7Your.svg)
+
 
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=James404-cyber&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200)
