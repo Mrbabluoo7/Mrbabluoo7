@@ -16,7 +16,7 @@
 
 
 
-![github stats](https://github-readme-stats.vercel.app/api?username=James404-cyber&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200)
+![github stats](https://rawcdn.githack.com/Afan76781/git_Files/0dfef1d933532856824b346dd1ba4f444ae5f45a/Python.svg)
 
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=James404-cyber&layout=compact&theme=chartreuse-dark" />
 <p align="center"> 
