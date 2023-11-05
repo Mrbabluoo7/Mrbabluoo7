@@ -33,7 +33,7 @@
 </p>
 
 
-
+<img src="https://rawcdn.githack.com/Afan76781/git_Files/bdf58e9fab09211d4773547779bbee38eeb9be26/Etc/github-contribution-grid-snake.svg">
 
 
 <h3><b><i>🏆 GITHUB STATISTICS :</i></b></h3> <a href="https://github.com/James404-cyber"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=James404-cyber&theme=monokai"></a> 
