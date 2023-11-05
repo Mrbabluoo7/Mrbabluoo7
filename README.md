@@ -25,12 +25,31 @@
 <img align="center" src="https://rawcdn.githack.com/Afan76781/git_Files/9b01ec157193cc03da6d3937bc1e34ffb3d3a827/Use_python.svg" />
 <p align="center"> 
 
-#Languages and Tools
+#My ToOlS
 </p>
+
+
+
+
+</p>
+<a href="link "><img title="BASH_ENC" src="https://rawcdn.githack.com/Afan76781/git_Files/1acb6ed8a785fb31e79101f185a536fb0318845f/bash.svg"></a>
+</p>
+
 
 </p>
 <a href="link "><img title="ENC_PY" src="https://rawcdn.githack.com/Afan76781/git_Files/cdbac7495ccc99c63daf0ad1a59a1812bc98a625/index.svg"></a>
 </p>
+
+
+</p>
+<a href="link "><img title="INAST_HACK" src="https://rawcdn.githack.com/Afan76781/git_Files/e5a248e5491a8c81b74c596b7b0eb2de12a352cf/Inst.svg"></a>
+</p>
+
+
+
+
+
+
 
 
 <img src="https://rawcdn.githack.com/Afan76781/git_Files/bdf58e9fab09211d4773547779bbee38eeb9be26/Etc/github-contribution-grid-snake.svg">
