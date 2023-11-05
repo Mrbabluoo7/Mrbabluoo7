@@ -18,7 +18,7 @@
 
 ![github stats](https://rawcdn.githack.com/Afan76781/git_Files/0dfef1d933532856824b346dd1ba4f444ae5f45a/Python.svg)
 
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=James404-cyber&layout=compact&theme=chartreuse-dark" />
+<img align="center" src="https://rawcdn.githack.com/Afan76781/git_Files/9b01ec157193cc03da6d3937bc1e34ffb3d3a827/Use_python.svg" />
 <p align="center"> 
 
 #Languages and Tools
