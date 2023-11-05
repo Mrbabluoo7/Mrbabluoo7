@@ -1,3 +1,8 @@
+<p align="center"><img src="https://rawcdn.githack.com/Afan76781/git_Files/bdf58e9fab09211d4773547779bbee38eeb9be26/Etc/youtube_banner_7.png">
+
+ <img src="https://rawcdn.githack.com/Afan76781/git_Files/bdf58e9fab09211d4773547779bbee38eeb9be26/Etc/pink_border1.svg">
+<h3 align="center">
+
 
 <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25"> __𝚆𝙴𝙻𝙲𝙾𝙼𝙴 𝚃𝙾 𝙼𝚈 GitHub 𝙿𝚁𝙾𝙵𝙸𝙻𝙴 _&nbsp; <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
 
@@ -32,3 +37,13 @@
 
 
 <h3><b><i>🏆 GITHUB STATISTICS :</i></b></h3> <a href="https://github.com/James404-cyber"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=James404-cyber&theme=monokai"></a> 
+
+<!-- HacktoberFest Badges -->
+
+[![An image of @U7P4L-IN's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/amajaying3)](https://holopin.io/@U7P4L-IN)
+
+
+<img src="https://rawcdn.githack.com/Afan76781/git_Files/bdf58e9fab09211d4773547779bbee38eeb9be26/Etc/Footer.jpg">
+
+
+<img src="https://rawcdn.githack.com/Afan76781/git_Files/bdf58e9fab09211d4773547779bbee38eeb9be26/Etc/pink_border2.svg">
