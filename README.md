@@ -1,4 +1,3 @@
-<h3><b><i>🏆 GITHUB STATISTICS :</i></b></h3> <a href="https://github.com/James404-cyber"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=James404-cyber&theme=monokai"></a> 
 
 <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25"> __𝚆𝙴𝙻𝙲𝙾𝙼𝙴 𝚃𝙾 𝙼𝚈 GitHub 𝙿𝚁𝙾𝙵𝙸𝙻𝙴 _&nbsp; <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
 
@@ -27,3 +26,9 @@
 </p>
 <a href="link "><img title="ENC_PY" src="https://rawcdn.githack.com/Afan76781/git_Files/cdbac7495ccc99c63daf0ad1a59a1812bc98a625/index.svg"></a>
 </p>
+
+
+
+
+
+<h3><b><i>🏆 GITHUB STATISTICS :</i></b></h3> <a href="https://github.com/James404-cyber"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=James404-cyber&theme=monokai"></a> 
