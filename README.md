@@ -15,6 +15,25 @@
 
 ## GitHub Stats  
 
+### about me : 
+```python3
+import os, sys
+
+#--> Clear Terminal
+def clear():
+    if "linux" in sys.platform.lower():os.system('clear')
+    elif "win" in sys.platform.lower():os.system('cls')
+
+def hello():
+    myname = ", I am Mr Bablu Jani ! "
+    project = "and I just finished creating a python project to Obfuscate Python3 files which is quite difficult to Reverse"
+    print("Hello world", myname)
+    print(project)
+    
+if __name__ == '__main__':
+    clear();hello()
+    
+```
 
 ![github stats](https://rawcdn.githack.com/Afan76781/git_Files/a461b8118499f840f51fb00c0f8872e6f9912cc7/7Your.svg)
 
