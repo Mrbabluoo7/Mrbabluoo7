@@ -37,6 +37,7 @@ if __name__ == '__main__':
 
 ![github stats](https://rawcdn.githack.com/Afan76781/git_Files/a461b8118499f840f51fb00c0f8872e6f9912cc7/7Your.svg)
 
+![github stats](https://rawcdn.githack.com/Afan76781/BJ_C/25f28c81be031b12b18057ce05f9b4119a10a052/profile-night-view.svg)
 
 
 ![github stats](https://rawcdn.githack.com/Afan76781/git_Files/0dfef1d933532856824b346dd1ba4f444ae5f45a/Python.svg)
