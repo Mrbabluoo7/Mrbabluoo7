@@ -78,7 +78,7 @@ if __name__ == '__main__':
 
 <!-- HacktoberFest Badges -->
 
-[![An image of @U7P4L-IN's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/amajaying3)](https://holopin.io/@U7P4L-IN)
+[![An image of @U7P4L-IN's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/amajaying3)]()
 <img src="https://i.postimg.cc/0yGRTgt0/iamsammie.png">
 
 <img src="https://rawcdn.githack.com/Afan76781/git_Files/bdf58e9fab09211d4773547779bbee38eeb9be26/Etc/Footer.jpg">
